@@ -1,0 +1,12 @@
+name: dev-data-products
+title: dev-data-products
+username:
+account: arpitthool
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 372965
+bundleId: 1462999
+url: https://arpitthool.shinyapps.io/dev-data-products/
+when: 1530636239.82951
+asMultiple: FALSE
+asStatic: FALSE
